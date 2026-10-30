@@ -1,0 +1,22 @@
+﻿# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secret encryption keys
+keys/
+*.key
+
+# Decrypted files
+decrypted/
+
+# Local storage and test data
+storage/
+virtual_disk/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
